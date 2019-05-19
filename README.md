@@ -8,3 +8,7 @@ There is 1 associated jobs:
 -----
 Job is of type iteration. It takes in an input MET-AST_09T product. It localizes and publishes the associated product if it does not exist on GRQ.
 
+
+09T product spec is the followingc:
+
+    AST_09T-<sensing_start_datetime>_<sensing_end_datetime>-<version_number>
